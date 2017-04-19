@@ -11,14 +11,14 @@ body{
 .container{
     width: 80%;
     margin: auto;
-    overflow: hidden;
+    overflow: visible;
 }
 
 
 .containerbox{
     width: 100%;
     margin: auto;
-    overflow: hidden;
+    overflow: visible
 }
 
 ul{
